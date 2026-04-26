@@ -4,9 +4,9 @@
 
 ✨ You can **try the live demo here:** 
 
-**User Page:** https://food-delivery-frontend-jzzc.onrender.com/
+**User Page:** https://food-del-frontend-4q0b.onrender.com/
 
-**Admin Page:** https://food-delivery-admin-rv4k.onrender.com/
+**Admin Page:** https://food-del-admin-oz2m.onrender.com/
 
 
 ---
